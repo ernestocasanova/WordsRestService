@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WordsRestService", "WordsRestService\WordsRestService.pyproj", "{77400598-E165-444B-B481-CE9D3D65BF1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77400598-E165-444B-B481-CE9D3D65BF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77400598-E165-444B-B481-CE9D3D65BF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77400598-E165-444B-B481-CE9D3D65BF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77400598-E165-444B-B481-CE9D3D65BF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4EC71CD-7490-4A31-AD29-3FA3AC144F5A}
+	EndGlobalSection
+EndGlobal
